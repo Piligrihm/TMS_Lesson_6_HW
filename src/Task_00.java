@@ -1,7 +1,7 @@
 import com.tms.exception.ContainSequanceAtEndException;
 import com.tms.exception.ContainSequanceAtStartException;
 import com.tms.exception.ContainSequanceException;
-import stringFormatter.StringToMyFormat;
+import com.tms.stringFormatter.StringToMyFormat;
 
 public class Task_00 extends StringToMyFormat {
     public static void main(String[] args) {
